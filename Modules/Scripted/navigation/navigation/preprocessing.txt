@@ -1,0 +1,6 @@
+Perform skull processing
+Simulation domain:  (230, 230, 230)
+Simulation dx:  0.0009434705026487556
+Skull threshold: 250
+Skull max value: 0.0
+Resample time: 0.12048149108886719
